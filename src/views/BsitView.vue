@@ -1,6 +1,6 @@
 <script setup>
 import { fetchProgramDetails } from '@/backend'
-on
+
 </script>
 
 <template>
@@ -14,7 +14,7 @@ on
       <div class="hero-content">
         <div class="hero-text">
           <h1>Information Technology</h1>
-          <p>The Information Technology (IT) Program is designed for students who wants to study computing in depth.</p>
+          <p>The Information Technology (IT) Program is designed for students who wants to study information technology in depth.</p>
           
           <div class="hero-buttons">
             <a href="#objectives" class="btn btn-dark"><i class="fas fa-list"></i> Objectives</a>
@@ -23,8 +23,8 @@ on
         </div>
 
         <div class="hero-logo">
-          <img src="https://ccs.cpu.edu.ph/wp-content/uploads/2021/11/CSS_PNG-1536x1536.png" alt="Computer Science Society Logo">
-          <h3>COMPUTER SCIENCE<br>SOCIETY</h3>
+          <img src="https://ccs.cpu.edu.ph/wp-content/uploads/2021/11/CSS_PNG-1536x1536.png" alt="Information Technology Society Logo">
+          <h3>INFORMATION TECHNOLOGY<br>SOCIETY</h3>
         </div>
       </div>
     </header>
