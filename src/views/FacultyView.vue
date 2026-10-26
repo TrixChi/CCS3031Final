@@ -107,7 +107,6 @@
 </template>
 
 <script setup>
-//TODO: Replace the URLs with actual links later. Me too lazy cause I can't see it
 
 import { ref, computed } from 'vue'
 
@@ -156,7 +155,7 @@ const facultyMembers = [
     name: 'PEDRO PETER RHYS B. CAMBRONERO, MSCS',
     title: 'BSCS PROGRAM',
     imageUrl:
-      'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=400&auto=format&fit=crop',
+      'https://ccs.cpu.edu.ph/wp-content/uploads/2021/11/cambronero-754x1024.jpg',
   },
   {
     name: 'LESLEY JOY L. DIGNADICE, MBA',
